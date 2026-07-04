@@ -1,0 +1,25 @@
+{
+  "type": "java",
+  "testFiles": [
+    {
+      "path": "src/test/java/SeleniumTest.java",
+      "testCases": [
+        {
+          "methodName": "testSum2",
+          "label": "Verify sum calculation for input 2",
+          "description": "Checks that entering '2' in the input field and clicking the button produces the expected result '1'."
+        },
+        {
+          "methodName": "testSum4",
+          "label": "Verify sum calculation for input 4",
+          "description": "Checks that entering '4' in the input field and clicking the button produces the expected result '6'."
+        },
+        {
+          "methodName": "testSum41",
+          "label": "Verify sum calculation for input 41",
+          "description": "Checks that entering '41' in the input field and clicking the button produces the expected result '820'."
+        }
+      ]
+    }
+  ]
+}
