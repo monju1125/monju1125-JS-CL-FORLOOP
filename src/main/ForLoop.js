@@ -37,5 +37,6 @@ function getSum(){
 }
 
 
+
 /* OPTIONAL PRACTICE: If you want more practice later, try using console.log(customInput) to print the values of each
     for loop iteration into the developer console of your browser. */
