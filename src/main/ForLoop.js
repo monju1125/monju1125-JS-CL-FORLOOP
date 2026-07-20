@@ -24,6 +24,7 @@ button.onclick = getSum;
  * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for
  * 
  */
+
 function getSum(){
     let val = parseInt(input.value);
     let sum = 0;
